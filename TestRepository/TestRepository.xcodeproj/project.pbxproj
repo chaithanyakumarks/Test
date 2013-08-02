@@ -19,6 +19,7 @@
 		0FDD838217AB71F500176CC4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD838117AB71F500176CC4 /* ViewController.m */; };
 		0FDD838517AB71F500176CC4 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0FDD838317AB71F500176CC4 /* ViewController.xib */; };
 		0FDD838D17AB72A300176CC4 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD838C17AB72A300176CC4 /* TestViewController.m */; };
+		0FDD839017AB73E400176CC4 /* TestViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD838F17AB73E300176CC4 /* TestViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		0FDD838417AB71F500176CC4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		0FDD838B17AB72A300176CC4 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		0FDD838C17AB72A300176CC4 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		0FDD838E17AB73E300176CC4 /* TestViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController2.h; sourceTree = "<group>"; };
+		0FDD838F17AB73E300176CC4 /* TestViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 				0FDD838317AB71F500176CC4 /* ViewController.xib */,
 				0FDD838B17AB72A300176CC4 /* TestViewController.h */,
 				0FDD838C17AB72A300176CC4 /* TestViewController.m */,
+				0FDD838E17AB73E300176CC4 /* TestViewController2.h */,
+				0FDD838F17AB73E300176CC4 /* TestViewController2.m */,
 				0FDD836F17AB71F500176CC4 /* Supporting Files */,
 			);
 			path = TestRepository;
@@ -182,6 +187,7 @@
 				0FDD837917AB71F500176CC4 /* AppDelegate.m in Sources */,
 				0FDD838217AB71F500176CC4 /* ViewController.m in Sources */,
 				0FDD838D17AB72A300176CC4 /* TestViewController.m in Sources */,
+				0FDD839017AB73E400176CC4 /* TestViewController2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +310,7 @@
 				0FDD838A17AB71F500176CC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
