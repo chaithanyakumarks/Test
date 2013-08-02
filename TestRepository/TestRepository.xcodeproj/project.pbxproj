@@ -24,6 +24,7 @@
 		0FDD839917AB7A1800176CC4 /* TestViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD839817AB7A1800176CC4 /* TestViewController4.m */; };
 		0FDD839C17AB7ABE00176CC4 /* TestViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD839B17AB7ABE00176CC4 /* TestViewController5.m */; };
 		0FDD839F17AB819B00176CC4 /* TestViewController6.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD839E17AB819B00176CC4 /* TestViewController6.m */; };
+		0FDD83A517AB825A00176CC4 /* TestViewController8.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FDD83A417AB825A00176CC4 /* TestViewController8.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,8 @@
 		0FDD839B17AB7ABE00176CC4 /* TestViewController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController5.m; sourceTree = "<group>"; };
 		0FDD839D17AB819B00176CC4 /* TestViewController6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController6.h; sourceTree = "<group>"; };
 		0FDD839E17AB819B00176CC4 /* TestViewController6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController6.m; sourceTree = "<group>"; };
+		0FDD83A317AB825A00176CC4 /* TestViewController8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController8.h; sourceTree = "<group>"; };
+		0FDD83A417AB825A00176CC4 /* TestViewController8.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController8.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,8 @@
 				0FDD839B17AB7ABE00176CC4 /* TestViewController5.m */,
 				0FDD839D17AB819B00176CC4 /* TestViewController6.h */,
 				0FDD839E17AB819B00176CC4 /* TestViewController6.m */,
+				0FDD83A317AB825A00176CC4 /* TestViewController8.h */,
+				0FDD83A417AB825A00176CC4 /* TestViewController8.m */,
 				0FDD836F17AB71F500176CC4 /* Supporting Files */,
 			);
 			path = TestRepository;
@@ -212,6 +217,7 @@
 				0FDD839917AB7A1800176CC4 /* TestViewController4.m in Sources */,
 				0FDD839C17AB7ABE00176CC4 /* TestViewController5.m in Sources */,
 				0FDD839F17AB819B00176CC4 /* TestViewController6.m in Sources */,
+				0FDD83A517AB825A00176CC4 /* TestViewController8.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
